@@ -1,0 +1,16 @@
+company,metric_id,metric,year,value,unit,where_in_report
+Northwind Renewables AG,8,Scope 1 GHG emissions total,2024,41250,t CO2e,p.4 text + table
+Northwind Renewables AG,9,Scope 2 GHG emissions total (market-based),2024,12430,t CO2e,p.4 text + table
+Northwind Renewables AG,10,Scope 3 GHG emissions total,2024,389600,t CO2e,p.4 text + table (category 1 is a distractor)
+Northwind Renewables AG,33,Waste diverted from disposal: total reused/recycled,2024,18940,t,p.6 text + chart (22020 t is total waste - distractor)
+Northwind Renewables AG,48,Water discharge: percentage returned that is purified,2024,94,%,p.5 text
+Northwind Renewables AG,50,Water consumption: total,2024,1180000,m3,p.5 CHART ONLY (1180 thousand m3)
+Northwind Renewables AG,69,Maternity leave fully covered,2024,100,%,p.7 text
+Northwind Renewables AG,70,Paternity leave fully covered,2024,100,%,p.7 text
+Northwind Renewables AG,71,Women on board,2024,41.7,%,p.7 table
+Northwind Renewables AG,73,Women in leadership,2024,27.5,%,p.7 table
+Northwind Renewables AG,75,Women in management,2024,34.2,%,p.7 table (40% by 2028 on p.3 is a target - distractor)
+Northwind Renewables AG,83,Women-to-men average salary ratio: management,2024,0.91,ratio,p.7 text
+Northwind Renewables AG,86,Women-to-men average salary ratio: workforce,2024,0.94,ratio,p.7 text
+Northwind Renewables AG,89,Suppliers with forced or compulsory labor violations,2024,2,count,p.8 text
+Northwind Renewables AG,90,Suppliers with child labor violations,2024,0,count,p.8 text
